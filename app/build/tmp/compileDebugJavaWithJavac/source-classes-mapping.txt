@@ -1,0 +1,9 @@
+com/example/recycle_1918134/BuildConfig.java
+ com.example.recycle_1918134.BuildConfig
+com/example/recycle_1918134/List.java
+ com.example.recycle_1918134.List
+ com.example.recycle_1918134.List$ContentViewHolder
+com/example/recycle_1918134/MainActivity.java
+ com.example.recycle_1918134.MainActivity
+com/example/recycle_1918134/Repo.java
+ com.example.recycle_1918134.Repo
